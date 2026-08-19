@@ -1,11 +1,7 @@
 import React from "react";
 
 const DeleteOrder = () => {
-  return (
-    <div>
-      <h1>Delete Order</h1>
-    </div>
-  );
+  return <h1>Delete Order</h1>;
 };
 
 export default DeleteOrder;
